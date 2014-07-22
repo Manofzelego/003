@@ -1,0 +1,159 @@
+(CC BY-SA 3.0)
+
+\documentclass[12pt,letterpaper,oneside,titlepage]{report}
+\usepackage[width=6.50in, height=10.00in, left=0.50in, right=0.25in, top=0.25in, bottom=0.25in]{geometry}
+\author{DrEverettMann}
+\title{SCP-003}
+\usepackage{fontspec}
+\setmainfont{Consolas}
+\usepackage{graphicx}
+\usepackage{sidecap}
+\usepackage{wrapfig}
+\newfontfamily\otherfont{MS Mincho}
+\newfontfamily\blackbox{Times New Roman}
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+\begin{document}
+	\begin{titlepage}
+	\hspace*{-18pt}\underline{Top Secret} \hspace*{5.75in}\underline{04-09-2011}\\ 
+	C.T.S.\\
+	Très Secret U.E.\\
+	Streng Geheim\\
+	Alto Secreto\\
+	{\otherfont {高度機密}}\\
+		\begin{center}
+			\vspace*{.5in}
+			{\LARGE \underline{SCP Foundation}}\\
+			Secure, Contain, Protect\\
+			\vspace*{.5in}
+			\includegraphics[keepaspectratio,scale=.05]{SCPlogo}			
+			\vskip.5in	
+			Official Report for Item \#:\\
+			\vskip.1in
+			SCP-003\\
+			\vskip.1in
+			Containment Procedures\\
+			\&\\ 
+			Delineation
+			\vfill
+			\vfill
+			\vfill
+			\begin{tabular}{l}
+			  Official Endorsement\\
+			\hline
+		    \includegraphics[keepaspectratio,scale=1]{EverettSIG.png}\\
+			\hline			  
+			\end{tabular}
+			\vfill
+			Dr. Everett Mann S.M.A.\\
+			SC-2 
+		\end{center}
+	\end{titlepage}
+\hspace*{-18pt}\underline{Top Secret}
+\hspace*{5.75in}\underline{04-09-2011}
+\begin{wrapfigure}{r}{0.5\textwidth}
+  \begin{center}
+    \includegraphics[width=256pt,keepaspectratio,scale=.015]{SCP-003a}
+  \end{center}
+  \caption{A close up of SCP-003's circuitry}
+\end{wrapfigure}
+\newline\newline
+\noindent
+\textbf{Item \#:} SCP-003\newline\newline
+\noindent
+\textbf{Object Class:} Euclid\newline\newline
+\textbf{Special Containment Procedures:} SCP-003 is to be maintained at a constant temperature of no less than 35°C and ideally kept above 100°C. In event of total power failure, assigned personnel must use their body heat to keep SCP-003-1 above the critical temperature. All personnel who have come in physical contact with SCP-003-1 are to immediately report for sterilization afterwards.\\
+
+\noindent
+SCP-003-1 must not be removed from SCP-003-2 except in case of emergency procedures detailed above. Any significant change in SCP-003-2's rune activity (including pattern, frequency, or color) should be reported within three (3) hours of occurrence. Cessation of rune activity must be reported immediately. SCP-003-2 must be supplied with power via the source designated Generator 003-IX at all times; refer to attached documentation for details.\\
+
+\noindent
+\textbf{Description:} SCP-003 was located by remote viewing team SRV-04 Beta \textit{(see attached documents)}. SCP-003 consists of two related components of separate origin, referred to as SCP-003-1 and SCP-003-2.\\
+
+\noindent
+SCP-003-1 appears to be composed of chitin, hair, and nails of unknown biology similar to {\blackbox █████ ████████}, arranged in a configuration similar to that of a computer motherboard. Testing reveals SCP-003-1 to predate earliest known circuit boards by {\blackbox █████████}. SCP-003-1 is considered sentient but not actively dangerous except under certain conditions (see addenda and attached documents).\\
+
+\noindent
+SCP-003-1 was found on a stone tablet, SCP-003-2, on which it currently resides. The runes on SCP-003-2 are not part of any known language, and flicker with pale tones. These are effects of communication, interpretable by {\blackbox ████████}.\\
+
+\noindent
+Analysis has shown that SCP-003-1 and SCP-003-2 have different origins. SCP-003-2 is controlled by a (non-biological) internal computer, the contents of which are mostly inaccessible without risk of damaging SCP-003-2. SCP-003-2 is capable of controlled emissions of radiation, including heat and {\blackbox ███████}. It is considered probable that SCP-003-2 was created for the purpose of containing SCP-003-1. Methods detailed in Addendum 003-01 have allowed access to some data contained in SCP-003-2; while interpretation is not conclusive, contents may refer to a past and/or potential future {\blackbox ██}-class restructuring event caused by SCP-003-1.
+
+\hspace*{410pt}\textit{continue to next page}
+
+
+\hspace*{-18pt}\underline{Top Secret}
+\hspace*{5.85in}\underline{04-09-2011}\\
+
+\noindent
+SCP-003-2 contains an internal power source of {\blackbox ████████}, which appears to have been losing power since {\blackbox ██████████} before discovery by SRV-04 Beta. It appears possible that SRV-04 Beta was deliberately contacted by SCP-003-2 via {\blackbox ██████████████████}. Other organizations have also been alerted to SCP-003's existence, possibly by similar means. Despite this activity, SCP-003-2 does not appear to be sentient, based on {\blackbox ██████████████████████████████} and its lack of reaction to {\blackbox ███████████} including M03-Gloria procedures.\\
+
+\noindent
+When SCP-003 drops below the temperature of 35°C, both components react.\\
+
+\noindent
+First, SCP-003-1 enters a growth state characterized by an exponential increase in mass. This growth state consists of two stages. In both stages, SCP-003-1 partially fuels its growth by converting matter around it, starting with any surrounding inorganic material, including atmospheric elements, then nonliving organic material, including cells of dead skin, hair, chitin, enamel, keratin, and other biological materials.\\
+
+\noindent
+The first stage is the 'default' stage; the second stage begins when SCP-003-1 comes in contact with living organic material. In its second stage, SCP-003-1 may pause, slow or change its growth, and will also reprocess inorganic and nonliving organic elements into functionally similar structures while {\blackbox ██████████████ ██████████████████████████████████████████████████████████████████ ██████████████████████████████████████████████████████████.} \\
+
+\noindent
+While growth is consistent in the first stage, in the second stage SCP-003-1's growth rate is diminished by 20-90\% so long as SCP-003-1 remains in contact with living organic material. The percentage is determined by the complexity of the organism(s) in contact with SCP-003-1; as confirmed by  {\blackbox ██████████} readings, SCP-003-1 appears to devote a large amount of processing power to analysis of living organic material.\\
+
+\noindent
+During each of SCP-003-1's growth stages, SCP-003-2 releases bursts of radiation that temporarily inhibit SCP-003-1's growth, or reverse this growth when the temperature of SCP-003-1 rises above 100°C. Similar radiation emissions may be produced via {\blackbox ████████████████████████████████████████████████████.}\\
+\vspace*{1.3in}
+\begin{center}
+\large\underline{END OF CONTAINMENT PROCEDURES \& DELINEATION}\\
+\end{center}
+\pagebreak
+\vfill
+\pagebreak
+\vspace*{\fill}
+\begin{center}
+\large\underline{THIS PAGE INTENTIONALLY LEFT BLANK}
+\end{center}
+\vfill
+\newpage
+\hspace*{-18pt}\underline{Top Secret}
+\hspace*{5.85in}\underline{04-09-2011}\\
+
+\noindent
+\textbf{Addendum 003-01:} Acting on information gathered from linguistic analysis of SCP-003-2's runes and {\blackbox ██████████████}, Research Team M03-Gloria has managed to establish a link between SCP-003 and {\blackbox ████████} for analysis of functions. SCP-003-1 must now be considered sentient, and is to be kept a minimum of 1 km from {\blackbox ███████████████████████████████} and the resulting "by-product" at all times.\\
+
+\noindent
+\textbf{Addendum 003-02:} SCP-003-2's power loss has been exacerbated by the procedures performed by M03-Gloria. On orders of O5-{\blackbox ██}, M03-Gloria will continue procedures.\\
+
+\noindent
+\textbf{Addendum 003-03:} {\blackbox ███████████} During this process, SCP-003-1 doubled its mass and began rapid structural growth. Temperature was immediately returned to 100°C. Growth and mass increase of SCP-003-1 continued for 9 minutes and 6 seconds, at which time a sustained radiation spike was produced by SCP-003-2. In response, SCP-003-1 returned to its normal state in 3 minutes and 39 seconds. New growth dissolved into a dusty residue which was collected for analysis. Both SCP-003-1 and SCP-003-2 ceased all detectable activity. SCP-003-2 did not resume activity until connected to {\blackbox ██████████████} external power source. SCP-003-2's runes glowed uniformly gray and did not resume normal activity for three (3) hours, and afterwards {\blackbox █████████████████████████████████} SCP-003-2 no longer appears to be able to maintain containment area at a temperature above 35°C without external power supplied by {\blackbox ██████████████} (designated Generators 003-III through IX).\\
+
+\noindent
+\textbf{Addendum 003-04:} The procedure detailed in Addendum 003-03 was repeated, and SCP-003-1 again entered a growth state. After 10 minutes and 13 seconds, SCP-003-2 once again produced a sustained radiation spike. SCP-003-1's growth stopped for 36 seconds, then resumed at its previous pace.\\
+
+\noindent
+On quadrupling its mass, SCP-003-1 formed a coherent outer shell and body, which initially took a form similar in shape to an ophiuroid (brittle star) of fifteen meters in diameter (including what appeared to be a central processor of three meters in diameter), formed sensory organs that appeared to scan the surrounding environment, and partially converted its containment area to {\blackbox ███████████████████}. SCP-003-1 then breached containment, entering the observation gallery where nine members of M03-Gloria were present. On physical contact with team members, SCP-003-1 entered stage two of its growth, and {\blackbox █████████████████████████████████████████████████} SCP-003-1 stopped growth for 15 minutes. SCP-003-1 then resumed growth, and rearranged the component parts of the center of its form to the shape of a three-meter-tall female humanoid, with peripheral "tentacles" shifting to extrude primarily from SCP-003-1's newly formed "hair" and spine. SCP-003-1 then produced rudimentary vocalizations and {\blackbox ████████████████████████████████████}.\\
+
+\noindent
+An unknown person, later identified as {\blackbox █████████████}, approached the compromised containment area in company of a full squad of agents. {\blackbox █████████████} claimed to be acting on orders of O5-{\blackbox ██} and attempted communication with SCP-003-1. {\blackbox ██████████████████████████████████████████████} Agent {\blackbox ████} of M03-Gloria successfully restored power to SCP-003-2 and activated backup generators to return the temperature to 100°C. SCP-003-1 returned to its normal state in 21 minutes and 7 seconds, and was successfully re-contained without incident.\\
+\pagebreak
+\hspace*{430pt}\textit{continue to next page}
+\underline{Top Secret}
+\hspace*{5.85in}\underline{04-09-2011}\\
+
+\noindent
+All nine members of M03-Gloria affected by SCP-003-1 were afterwards found to be physically unharmed, with no residual effects besides minor psychological trauma. The converted materials of SCP-003's former containment area did not dissolve and are now under analysis.\\
+
+\noindent
+\textbf{Addendum 003-05:} In light of the previous incident, O5-{\blackbox ██} {\blackbox ██████████████████ ██████████████████████} by joint decision of O5-{\blackbox ██}, O5-{\blackbox ██}, and O5-{\blackbox ██}. All M03-Gloria procedures have been indefinitely suspended.\\
+\vfill
+\begin{center}
+\large\underline{END OF ADDENDA}
+\end{center}
+\vfill
+\pagebreak
+\vspace*{\fill}
+\begin{center}
+\large\underline{THIS PAGE INTENTIONALLY LEFT BLANK}
+\end{center}
+\vfill
+\end{document} 
